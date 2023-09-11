@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4XgK/xB/wbE9z9Wc4EOS7Dzfeh5qnJRfVNAtropKsjpejlh+TtsZWZaL5ElpIStgim/KknEYrdqAKip3NhFxTg==",
+  "dgSpecHash": "wHHo0e0U2EkX3rTBpDWV7vgv0f1AsTCmmPjJ7RB2tmgp0IDyGjJRr7t8nz9M8UTLudeb2/w//nrS8xLSsvo5bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Munhausen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

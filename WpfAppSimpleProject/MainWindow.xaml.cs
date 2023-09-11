@@ -20,9 +20,11 @@ namespace WpfAppSimpleProject
     /// </summary>
     public partial class MainWindow : Window
     {
+        private CurrensyConverter currensyConverter = new CurrensyConverter();
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = currensyConverter;
         }
     }
 }
