@@ -7,6 +7,29 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" x:Name="Menu_MainWindow">
+            <MenuItem Header="File">
+                <MenuItem Header="Exit"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit"></MenuItem>
+            <MenuItem Header="View"></MenuItem>
+            <MenuItem Header="Help"></MenuItem>
+        </Menu>
 
+        <Grid Grid.Row="1" Background="AliceBlue">
+            
+        </Grid>
+
+        <StatusBar Grid.Row="2">
+            <StatusBarItem>
+                <TextBlock x:Name="Label_StatusStripItem">Ready...</TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+        
     </Grid>
 </Window>
