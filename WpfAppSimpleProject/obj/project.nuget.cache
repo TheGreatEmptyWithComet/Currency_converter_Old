@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHHo0e0U2EkX3rTBpDWV7vgv0f1AsTCmmPjJ7RB2tmgp0IDyGjJRr7t8nz9M8UTLudeb2/w//nrS8xLSsvo5bg==",
+  "dgSpecHash": "XaJVlYqa66Sk1mxQwX4wSj/pfAUG8DzTxKYf1yZLQVpM8Ej4JVKcR5x6g1icujZ8eZ8ooG+POBr/Ov9diq4VGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
+  "projectFilePath": "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Munhausen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

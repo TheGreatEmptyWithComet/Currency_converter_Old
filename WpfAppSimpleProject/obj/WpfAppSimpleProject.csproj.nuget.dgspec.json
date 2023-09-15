@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj": {}
+    "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj": {
+    "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
+        "projectUniqueName": "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
         "projectName": "WpfAppSimpleProject",
-        "projectPath": "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
+        "projectPath": "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\WpfAppSimpleProject.csproj",
         "packagesPath": "C:\\Users\\Munhausen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Munhausen\\source\\repos\\WpfAppSimpleProject\\WpfAppSimpleProject\\obj\\",
+        "outputPath": "C:\\Users\\Munhausen\\Source\\Repos\\TheGreatEmptyWithComet\\Currency_converter\\WpfAppSimpleProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
